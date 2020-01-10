@@ -8,7 +8,7 @@ Objective:  IT Internship
  
 EDUCATION 
  
-2016, Sep- 2020, July 
+2016, Sep- 2020, July '\n'
                  National University of Science and Technology "MISIS"BSc, Technosphere safety 
                     Relevant courses: Computer Science,Mathematical analysis, Analytical geometry, Linea Algebra, Probability theory and                       statistics 
  
